@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Bombox7
-- burnt chicken is cool 
-- sonk.exe
-- i put my shoes on before my socks
+- hello my name is @Bombox7
+- cool
 
 <!---
 Bombox7/Bombox7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
